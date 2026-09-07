@@ -1,0 +1,151 @@
+id,city,district,area_m2,bedrooms,bathrooms,floors,building_type,year_built,price_million_vnd,price_per_m2_million_vnd
+1,Ho Chi Minh City,Quan 9,144.1,3,1,5,townhouse,2022,8937.19,62.02
+2,Ho Chi Minh City,Quan 7,133.9,4,3,5,house,2005,11187.61,83.55
+3,Ha Noi,Dong Da,52.0,4,2,5,apartment,2009,3550.3,68.28
+4,Ha Noi,Dong Da,146.9,3,2,3,townhouse,2024,12626.0,85.95
+5,Ho Chi Minh City,Thu Duc,102.9,1,1,2,apartment,2017,7266.38,70.62
+6,Ha Noi,Ba Dinh,31.9,2,3,4,townhouse,2007,3550.33,111.3
+7,Ho Chi Minh City,Quan 7,139.1,4,2,4,house,2021,10961.43,78.8
+8,Ha Noi,Dong Da,52.2,3,2,2,house,2003,3641.26,69.76
+9,Ha Noi,Ha Dong,53.5,1,2,5,apartment,2020,2267.41,42.38
+10,Ha Noi,Hoan Kiem,145.8,4,1,1,apartment,2000,16156.96,110.82
+11,Ho Chi Minh City,Tan Binh,80.8,1,3,3,townhouse,2002,4720.41,58.42
+12,Ho Chi Minh City,Quan 1,102.7,2,3,2,apartment,2008,11411.51,111.11
+13,Ha Noi,Dong Da,69.7,4,3,5,townhouse,2021,5855.25,84.01
+14,Ho Chi Minh City,Quan 7,86.7,1,3,3,apartment,2022,5849.19,67.46
+15,Ho Chi Minh City,Binh Thanh,89.3,1,3,2,house,2018,5998.73,67.17
+16,Ho Chi Minh City,Tan Binh,87.0,1,2,5,townhouse,2014,4982.63,57.27
+17,Ho Chi Minh City,Thu Duc,57.5,4,3,3,townhouse,2001,4717.16,82.04
+18,Ha Noi,Thanh Xuan,65.5,1,2,4,house,2022,3296.86,50.33
+19,Ha Noi,Ba Dinh,68.2,1,1,1,townhouse,2019,6912.11,101.35
+20,Ho Chi Minh City,Quan 1,66.6,2,3,1,house,2018,6793.04,102.0
+21,Ha Noi,Dong Da,59.3,3,2,1,apartment,2019,3664.58,61.8
+22,Ha Noi,Ha Dong,113.6,3,1,5,apartment,2016,6200.15,54.58
+23,Ha Noi,Hoan Kiem,79.3,3,1,1,apartment,2001,7462.45,94.1
+24,Ho Chi Minh City,Quan 9,83.7,2,3,4,townhouse,2016,5231.92,62.51
+25,Ho Chi Minh City,Binh Thanh,74.1,4,2,3,townhouse,2000,5986.47,80.79
+26,Ho Chi Minh City,Quan 9,91.0,4,1,3,townhouse,2002,5669.95,62.31
+27,Ho Chi Minh City,Quan 7,71.8,3,1,1,townhouse,2000,6526.77,90.9
+28,Ho Chi Minh City,Quan 9,118.2,2,3,2,townhouse,2015,6639.91,56.18
+29,Ha Noi,Ba Dinh,92.0,1,2,1,house,2004,9285.37,100.93
+30,Ha Noi,Cau Giay,52.6,1,3,3,townhouse,2021,3951.44,75.12
+31,Ha Noi,Ba Dinh,107.0,3,1,4,house,2002,11559.41,108.03
+32,Ha Noi,Ha Dong,142.8,1,1,2,house,2021,6740.97,47.21
+33,Ho Chi Minh City,Thu Duc,56.9,1,1,5,townhouse,2000,4444.19,78.11
+34,Ha Noi,Dong Da,91.1,2,3,5,townhouse,2001,7294.55,80.07
+35,Ho Chi Minh City,Binh Thanh,107.4,3,1,5,apartment,2003,7753.03,72.19
+36,Ho Chi Minh City,Quan 1,35.2,4,2,5,house,2002,4574.48,129.96
+37,Ha Noi,Ba Dinh,144.4,1,1,5,townhouse,2000,16228.63,112.39
+38,Ha Noi,Thanh Xuan,76.2,3,1,3,house,2021,4026.68,52.84
+39,Ha Noi,Cau Giay,98.4,4,2,2,townhouse,2001,8147.76,82.8
+40,Ha Noi,Ba Dinh,131.8,1,3,5,house,2002,13085.77,99.29
+41,Ha Noi,Ba Dinh,103.4,4,2,1,apartment,2007,10144.61,98.11
+42,Ha Noi,Ha Dong,125.5,4,3,4,house,2022,6341.99,50.53
+43,Ho Chi Minh City,Binh Thanh,69.4,2,3,5,house,2021,5087.58,73.31
+44,Ho Chi Minh City,Quan 9,34.7,3,2,3,apartment,2020,1887.36,54.39
+45,Ha Noi,Dong Da,145.8,3,2,5,house,2022,10472.68,71.83
+46,Ha Noi,Dong Da,45.9,2,2,3,apartment,2018,2883.78,62.83
+47,Ha Noi,Hoan Kiem,39.4,1,2,5,house,2008,3931.44,99.78
+48,Ha Noi,Thanh Xuan,37.0,2,1,2,house,2024,1682.74,45.48
+49,Ha Noi,Thanh Xuan,63.6,4,1,5,house,2002,3658.94,57.53
+50,Ha Noi,Hoan Kiem,72.7,1,2,1,apartment,2004,5961.73,82.0
+51,Ho Chi Minh City,Quan 1,67.4,2,1,4,house,2020,7662.62,113.69
+52,Ho Chi Minh City,Quan 9,50.8,2,1,2,house,2003,2989.62,58.85
+53,Ha Noi,Dong Da,75.0,2,3,2,apartment,2012,4847.25,64.63
+54,Ha Noi,Hoan Kiem,33.2,4,3,4,house,2000,3705.59,111.61
+55,Ho Chi Minh City,Thu Duc,95.5,1,3,1,apartment,2010,6356.21,66.56
+56,Ha Noi,Thanh Xuan,38.3,3,2,2,apartment,2002,1746.91,45.61
+57,Ho Chi Minh City,Quan 1,108.7,1,2,2,house,2018,10733.99,98.75
+58,Ho Chi Minh City,Tan Binh,44.2,1,2,5,townhouse,2003,2666.82,60.34
+59,Ho Chi Minh City,Thu Duc,146.1,4,2,5,apartment,2002,11255.76,77.04
+60,Ho Chi Minh City,Quan 7,79.5,2,1,5,apartment,2022,5633.39,70.86
+61,Ho Chi Minh City,Quan 7,42.4,1,1,4,apartment,2018,2640.46,62.28
+62,Ho Chi Minh City,Quan 9,31.3,1,3,4,apartment,2013,1461.68,46.7
+63,Ho Chi Minh City,Quan 9,98.8,3,1,5,townhouse,2019,6321.68,63.98
+64,Ho Chi Minh City,Thu Duc,120.3,3,1,5,apartment,2006,8675.97,72.12
+65,Ha Noi,Hoan Kiem,83.0,3,1,3,townhouse,2011,8810.15,106.15
+66,Ho Chi Minh City,Quan 3,130.4,1,1,5,house,2001,13025.88,99.89
+67,Ho Chi Minh City,Thu Duc,40.2,3,1,1,house,2006,3246.33,80.75
+68,Ho Chi Minh City,Thu Duc,120.4,2,3,3,apartment,2006,8034.4,66.73
+69,Ho Chi Minh City,Quan 3,138.8,3,2,3,apartment,2019,13562.97,97.72
+70,Ha Noi,Thanh Xuan,128.7,3,1,3,apartment,2024,6052.97,47.03
+71,Ho Chi Minh City,Quan 9,64.3,4,1,5,house,2012,4091.11,63.63
+72,Ha Noi,Thanh Xuan,35.2,1,2,5,townhouse,2003,1961.89,55.74
+73,Ho Chi Minh City,Quan 7,146.3,2,3,1,apartment,2000,10398.69,71.08
+74,Ho Chi Minh City,Binh Thanh,100.1,4,3,1,townhouse,2015,8422.91,84.14
+75,Ha Noi,Ha Dong,84.7,4,1,2,house,2017,4554.4,53.77
+76,Ha Noi,Dong Da,73.2,4,3,1,apartment,2019,5016.82,68.54
+77,Ho Chi Minh City,Quan 9,62.5,1,2,3,apartment,2018,3294.92,52.72
+78,Ha Noi,Thanh Xuan,103.6,2,2,2,townhouse,2022,5127.93,49.5
+79,Ha Noi,Ba Dinh,123.3,2,3,1,townhouse,2024,13680.16,110.95
+80,Ha Noi,Cau Giay,131.1,1,1,2,apartment,2000,7804.48,59.53
+81,Ho Chi Minh City,Tan Binh,133.8,1,1,5,house,2022,7387.67,55.21
+82,Ho Chi Minh City,Thu Duc,143.4,2,3,1,apartment,2013,9711.54,67.72
+83,Ho Chi Minh City,Quan 7,63.0,4,2,1,apartment,2001,5034.1,79.91
+84,Ha Noi,Hoan Kiem,89.8,2,2,3,townhouse,2000,9403.26,104.71
+85,Ha Noi,Dong Da,97.3,2,3,1,apartment,2014,5782.66,59.43
+86,Ho Chi Minh City,Tan Binh,124.2,2,2,3,townhouse,2001,7972.33,64.19
+87,Ha Noi,Hoan Kiem,100.8,2,3,3,townhouse,2019,11864.42,117.7
+88,Ho Chi Minh City,Binh Thanh,84.1,3,2,2,townhouse,2003,7308.67,86.9
+89,Ha Noi,Ba Dinh,89.1,4,1,2,house,2012,9786.53,109.84
+90,Ha Noi,Cau Giay,99.6,3,3,1,townhouse,2010,7225.44,72.54
+91,Ha Noi,Dong Da,51.8,4,1,3,townhouse,2017,4286.52,82.75
+92,Ho Chi Minh City,Quan 3,56.9,1,1,2,house,2020,5428.89,95.41
+93,Ha Noi,Ba Dinh,94.1,4,2,2,apartment,2012,9840.17,104.57
+94,Ho Chi Minh City,Quan 1,41.1,3,1,3,townhouse,2016,5027.45,122.32
+95,Ha Noi,Dong Da,126.7,1,3,5,townhouse,2023,8949.86,70.64
+96,Ha Noi,Ha Dong,104.2,3,2,2,apartment,2023,4719.49,45.29
+97,Ho Chi Minh City,Tan Binh,112.5,3,2,3,townhouse,2017,6391.36,56.81
+98,Ha Noi,Ha Dong,93.9,3,1,5,house,2016,4969.04,52.92
+99,Ho Chi Minh City,Binh Thanh,69.3,4,1,1,apartment,2003,5365.39,77.42
+100,Ha Noi,Cau Giay,107.9,2,3,4,townhouse,2014,8391.04,77.77
+101,Ha Noi,Ba Dinh,97.7,2,1,5,house,2001,10445.4,106.91
+102,Ho Chi Minh City,Quan 7,148.4,1,1,1,apartment,2005,8823.13,59.46
+103,Ha Noi,Dong Da,132.1,2,2,1,townhouse,2007,8928.88,67.59
+104,Ho Chi Minh City,Quan 9,149.7,2,2,4,townhouse,2005,9542.21,63.74
+105,Ha Noi,Ba Dinh,88.9,2,3,1,house,2007,8901.02,100.12
+106,Ha Noi,Cau Giay,130.6,1,2,2,house,2019,8677.02,66.44
+107,Ho Chi Minh City,Quan 9,59.1,3,1,2,house,2004,3226.29,54.59
+108,Ha Noi,Cau Giay,141.8,1,3,3,apartment,2023,8363.16,58.98
+109,Ha Noi,Thanh Xuan,37.6,4,2,5,house,2004,1897.54,50.47
+110,Ho Chi Minh City,Quan 1,44.0,3,2,3,house,2004,4621.44,105.03
+111,Ha Noi,Dong Da,145.8,2,1,3,apartment,2002,8797.81,60.34
+112,Ho Chi Minh City,Quan 1,118.9,2,1,3,apartment,2002,12810.32,107.74
+113,Ho Chi Minh City,Thu Duc,127.7,3,2,2,house,2012,9431.18,73.85
+114,Ha Noi,Ba Dinh,112.0,4,3,3,apartment,2022,11239.07,100.35
+115,Ho Chi Minh City,Tan Binh,99.3,1,1,2,house,2007,4625.35,46.58
+116,Ho Chi Minh City,Tan Binh,44.0,2,3,3,house,2014,2204.58,50.1
+117,Ho Chi Minh City,Thu Duc,89.5,2,3,3,apartment,2000,5695.32,63.63
+118,Ho Chi Minh City,Thu Duc,123.4,1,2,4,house,2004,8750.45,70.91
+119,Ho Chi Minh City,Quan 3,71.0,2,1,4,apartment,2023,6741.88,94.96
+120,Ho Chi Minh City,Thu Duc,94.8,1,3,4,apartment,2018,6393.58,67.44
+121,Ho Chi Minh City,Quan 9,95.1,3,3,5,townhouse,2007,6510.24,68.46
+122,Ha Noi,Ha Dong,78.1,3,2,3,house,2017,4151.1,53.15
+123,Ho Chi Minh City,Quan 1,32.2,4,3,4,apartment,2007,3980.98,123.63
+124,Ho Chi Minh City,Quan 3,122.5,3,2,1,house,2013,12784.46,104.36
+125,Ha Noi,Ba Dinh,141.1,3,1,5,apartment,2003,13070.64,92.63
+126,Ha Noi,Ba Dinh,69.9,2,3,3,townhouse,2008,7458.35,106.7
+127,Ho Chi Minh City,Quan 1,54.7,1,1,2,apartment,2019,4891.52,89.42
+128,Ho Chi Minh City,Quan 3,140.4,2,3,2,townhouse,2016,17471.8,124.44
+129,Ha Noi,Cau Giay,33.9,3,3,1,townhouse,2020,2479.17,73.13
+130,Ha Noi,Ba Dinh,73.5,3,3,2,house,2006,7931.97,107.92
+131,Ho Chi Minh City,Quan 9,85.1,4,2,4,townhouse,2016,6174.75,72.56
+132,Ho Chi Minh City,Quan 1,67.2,2,3,3,townhouse,2016,8462.01,125.92
+133,Ho Chi Minh City,Thu Duc,86.6,4,3,2,apartment,2014,6944.28,80.19
+134,Ha Noi,Hoan Kiem,94.1,1,2,3,townhouse,2007,8909.7,94.68
+135,Ho Chi Minh City,Tan Binh,143.5,4,2,2,townhouse,2000,9743.76,67.9
+136,Ho Chi Minh City,Tan Binh,48.7,2,3,5,apartment,2002,2524.15,51.83
+137,Ha Noi,Cau Giay,90.7,4,2,1,townhouse,2018,7586.68,83.65
+138,Ho Chi Minh City,Quan 9,58.6,2,3,3,apartment,2013,2790.39,47.62
+139,Ho Chi Minh City,Tan Binh,137.6,3,2,1,townhouse,2015,9228.22,67.07
+140,Ho Chi Minh City,Quan 7,100.0,4,2,2,apartment,2019,8082.51,80.83
+141,Ho Chi Minh City,Quan 3,129.0,3,3,4,apartment,2008,13538.15,104.95
+142,Ha Noi,Thanh Xuan,65.3,4,2,4,apartment,2023,3663.36,56.1
+143,Ho Chi Minh City,Binh Thanh,86.5,4,1,2,townhouse,2008,7630.97,88.22
+144,Ha Noi,Hoan Kiem,106.0,3,1,3,house,2012,12150.14,114.62
+145,Ha Noi,Thanh Xuan,32.2,2,1,2,apartment,2016,1445.78,44.9
+146,Ho Chi Minh City,Quan 1,89.7,4,3,5,house,2024,9989.03,111.36
+147,Ho Chi Minh City,Binh Thanh,117.9,2,1,1,apartment,2012,7540.78,63.96
+148,Ho Chi Minh City,Quan 3,78.5,2,2,2,house,2018,8881.61,113.14
+149,Ho Chi Minh City,Quan 9,122.5,1,1,3,townhouse,2016,6673.88,54.48
+150,Ho Chi Minh City,Tan Binh,103.2,2,2,5,apartment,2014,5050.53,48.94
